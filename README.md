@@ -1,3 +1,7 @@
+# Encoding
+
+utf-8 using notepad++ > encoding   (if not utf-8, fontawsome will not work)
+
 # install eslint
 
 https://www.npmjs.com/package/eslint-config-airbnb-base

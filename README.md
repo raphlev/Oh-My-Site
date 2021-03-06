@@ -1,6 +1,6 @@
 # Encoding
 
-utf-8 using notepad++ > encoding   (if not utf-8, fontawsome will not work)
+utf-8 using notepad++ > encoding   (if not utf-8, fontawsome will not work, liveserver hot reloading will not work, ..)
 
 # install eslint
 
